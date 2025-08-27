@@ -2,9 +2,9 @@
 
 ## E1: Classes, métodos, atributos e objetos - parte 1
 
-<img width="511" height="218" alt="tabela" src="https://github.com/user-attachments/assets/36635a65-de86-4425-816f-677665c8d247" />
+<img width="511" height="218" alt="tabela" src="https://github.com/user-attachments/assets/36635a65-de86-4425-816f-677665c8d247" / [calculo media (1).xlsx](https://github.com/user-attachments/files/22014407/calculo.media.1.xlsx)>
 
-[calculo media (1).xlsx](https://github.com/user-attachments/files/22014407/calculo.media.1.xlsx)
+
 
 
 ##Links relacionados a cada questão da atividade:
