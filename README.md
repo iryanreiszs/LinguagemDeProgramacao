@@ -4,11 +4,9 @@
 
 ### * Teste de mesa:
 
-**[Clique aqui para baixar o Excel](assets/relatorio.xlsx)**
-
 [![Tabela](https://github.com/user-attachments/assets/36635a65-de86-4425-816f-677665c8d247)](assets/relatorio.xlsx)
 
-[Clique aqui para baixar o Excel](https://github.com/user-attachments/files/22014706/calculo.media.1.xlsx)
+**[Clique aqui para baixar o Excel](https://github.com/user-attachments/files/22014706/calculo.media.1.xlsx)**
 
 
 
