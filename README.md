@@ -1,3 +1,4 @@
 # Repertório referente a disciplina de Linguagem de Programação I.
 
 ## E1: Classes, métodos, atributos e objetos - parte 1
+![WhatsApp Image 2025-08-25 at 19 24 25](https://github.com/user-attachments/assets/a5a46c02-fc6b-41bc-aa20-8e0c46e04468)
