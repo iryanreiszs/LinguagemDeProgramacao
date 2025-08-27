@@ -6,7 +6,7 @@
 
 **[Clique aqui para baixar o Excel](assets/relatorio.xlsx)**
 
-[![Tabela](https://github.com/user-attachments/assets/36635a65-de86-4425-816f-677665c8d247)](assets/tabeça.png/relatorio.xlsx)
+[![Tabela](https://github.com/user-attachments/assets/36635a65-de86-4425-816f-677665c8d247)](assets/tabela.png)
 
 
 
