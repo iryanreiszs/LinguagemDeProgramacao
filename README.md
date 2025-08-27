@@ -2,12 +2,16 @@
 
 ## E1: Classes, métodos, atributos e objetos - parte 1
 
-## Atividade 1:
+**[Clique aqui para baixar o Excel](assets/relatorio.xlsx)**
+
+[![Tabela](https://github.com/user-attachments/assets/36635a65-de86-4425-816f-677665c8d247)](assets/relatorio.xlsx)
+
+
+## Teste de mesa:
 [![Clique para baixar o Excel](https://github.com/user-attachments/assets/36635a65-de86-4425-816f-677665c8d247)](assets/relatorio.xlsx)
 
 
 
-<img width="511" height="218" alt="tabela" src="https://github.com/user-attachments/assets/36635a65-de86-4425-816f-677665c8d247" / [calculo media (1).xlsx](https://github.com/user-attachments/files/22014407/calculo.media.1.xlsx)>
 
 
 
