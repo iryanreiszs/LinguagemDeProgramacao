@@ -20,7 +20,7 @@
 ### - Links relacionados a cada questão da atividade:
 
 2. [(https://www.youtube.com/watch?v=UjOPkENYTIw&list=RDUjOPkENYTIw&start_radio=1)](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUjOPkENYTIw&list=RDUjOPkENYTIw&start_radio=1)
-3. [Obra John Lennon - (https://www.culturagenial.com/vik-muniz-obras/) Obra Torre Eiffel - ](https://www.culturagenial.com/vik-muniz-obras/)
+3. [Obra John Lennon/Torre Eiffel - (https://www.culturagenial.com/vik-muniz-obras/) Obra Torre Eiffel - ](https://www.culturagenial.com/vik-muniz-obras/)
 4. [(https://www.mauromartins.com/espn-superbowl(](https://www.mauromartins.com/espn-superbowl)
 5. [(https://www.youtube.com/shorts/dOrWOVwwCcY)](https://www.youtube.com/shorts/dOrWOVwwCcY)
 
