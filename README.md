@@ -2,7 +2,7 @@
 
 ## E1: Classes, métodos, atributos e objetos - parte 1
 
-### - Teste de mesa:
+### * Teste de mesa:
 
 **[Clique aqui para baixar o Excel](assets/relatorio.xlsx)**
 
@@ -17,7 +17,7 @@
 
 
 
-### - Links relacionados a cada questão da atividade:
+### * Links relacionados a cada questão da atividade:
 
 
 2. [(https://www.youtube.com/watch?v=UjOPkENYTIw&list=RDUjOPkENYTIw&start_radio=1)](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUjOPkENYTIw&list=RDUjOPkENYTIw&start_radio=1)
