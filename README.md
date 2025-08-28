@@ -26,6 +26,8 @@
 5. [(https://www.youtube.com/shorts/dOrWOVwwCcY)](https://www.youtube.com/shorts/dOrWOVwwCcY)
 
 <img width="1503" height="653" alt="image" src="https://github.com/user-attachments/assets/6b93151f-b34d-46e6-be63-7361c1bb723d" />
+<img width="1501" height="691" alt="image" src="https://github.com/user-attachments/assets/7faf8d7c-1950-4f13-a7d2-9b1b65ea1288" />
+
 
 
 ![WhatsApp Image 2025-08-25 at 19 24 25](https://github.com/user-attachments/assets/a5a46c02-fc6b-41bc-aa20-8e0c46e04468)
