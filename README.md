@@ -16,6 +16,7 @@
 
 
 
+
 ### * Links relacionados a cada questão da atividade:
 
 
@@ -24,6 +25,7 @@
 4. [(https://www.mauromartins.com/espn-superbowl(](https://www.mauromartins.com/espn-superbowl)
 5. [(https://www.youtube.com/shorts/dOrWOVwwCcY)](https://www.youtube.com/shorts/dOrWOVwwCcY)
 
+<img width="1503" height="653" alt="image" src="https://github.com/user-attachments/assets/6b93151f-b34d-46e6-be63-7361c1bb723d" />
 
 
 ![WhatsApp Image 2025-08-25 at 19 24 25](https://github.com/user-attachments/assets/a5a46c02-fc6b-41bc-aa20-8e0c46e04468)
