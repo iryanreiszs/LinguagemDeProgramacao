@@ -1,12 +1,7 @@
-# Repertório referente a disciplina de Linguagem de Programação I.
+# Repositório referente a disciplina de Linguagem de Programação I.
 
 ## E1: Classes, métodos, atributos e objetos - parte 1
 
-### * Teste de mesa:
-
-[![Tabela](https://github.com/user-attachments/assets/36635a65-de86-4425-816f-677665c8d247)](assets/relatorio.xlsx)
-
-**[Clique aqui para baixar o Excel](https://github.com/user-attachments/files/22014706/calculo.media.1.xlsx)**
 
 
 
