@@ -1,5 +1,6 @@
 
-<img width="1594" height="753" alt="ex5" src="https://github.com/user-attachments/assets/b557e0f2-1cb1-47b9-85cc-7a876b593804" />
+<img width="1593" height="752" alt="ex5" src="https://github.com/user-attachments/assets/04f3518b-50f0-4c03-942a-0d5ad1cb3bb0" />
+
 
 ## Clash Royale Official Epic Comeback Trailer
 
