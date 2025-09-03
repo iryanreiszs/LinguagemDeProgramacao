@@ -1,6 +1,7 @@
 ## 🎨 Exercício 3: Classes sobre obras de Vik Muniz - John Lennon
 
-<img width="1593" height="751" alt="image" src="https://github.com/user-attachments/assets/be5163d4-c4c2-44d4-afce-3c901f7c460c" />
+<img width="818" height="329" alt="image" src="https://github.com/user-attachments/assets/6dee8624-10f5-4d94-84d1-12af30216790" />
+
 
 ---
 
