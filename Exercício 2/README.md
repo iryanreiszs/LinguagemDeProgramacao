@@ -4,6 +4,8 @@
 
 <img width="1599" height="753" alt="ex2" src="https://github.com/user-attachments/assets/7b09aede-137c-46ab-8379-a1c0818fd023" />
 
+---
+
 > Classes implementadas: `Comida`, `Cidade`, `Pessoa`
 
 ---
