@@ -1,4 +1,4 @@
-## 🎵 Exercício 2: Classes sobre música
+## 🎵 Exercício 2: Classes sobre música - Poesia Acústica #6 - Era Uma Vez - Mc Cabelinho, Orochi, Bob, Maquiny, Azzy, Filipe Ret, Dudu, Xamã
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-## Poesia Acústica #6 - Era Uma Vez - Mc Cabelinho, Orochi, Bob, Maquiny, Azzy, Filipe Ret, Dudu, Xamã
+
 
 
 
