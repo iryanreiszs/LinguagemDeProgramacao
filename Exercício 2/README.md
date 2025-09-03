@@ -2,7 +2,8 @@
 
 
 
-<img width="1599" height="753" alt="ex2" src="https://github.com/user-attachments/assets/7b09aede-137c-46ab-8379-a1c0818fd023" />
+<img width="783" height="321" alt="image" src="https://github.com/user-attachments/assets/d948c7e2-a877-4a8e-92bb-c5b712450cc5" />
+
 
 ---
 
