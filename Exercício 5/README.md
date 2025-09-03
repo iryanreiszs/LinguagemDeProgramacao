@@ -1,6 +1,7 @@
 ## ⚽ Exercício 5: Classes sobre vídeo - Clash Royale Official Epic Comeback Trailer
 
-<img width="1593" height="752" alt="ex5" src="https://github.com/user-attachments/assets/04f3518b-50f0-4c03-942a-0d5ad1cb3bb0" />
+<img width="786" height="335" alt="image" src="https://github.com/user-attachments/assets/90846882-c29b-4db1-844a-42b6a4f3046b" />
+
 
 ---
 
