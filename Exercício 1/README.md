@@ -1,6 +1,6 @@
 
 
-# Teste de mesa 
+## 🎯 Exercício 1: Média no Excel
 
 
 
