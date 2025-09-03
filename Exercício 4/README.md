@@ -1,6 +1,7 @@
 ## 🖍️ Exercício 4: Classes sobre imagem Doodle - TWO DOTS SCAVENGER HUNT // THE UNEXPLORED
 
-<img width="1568" height="911" alt="image" src="https://github.com/user-attachments/assets/100a3fb8-7700-479e-b593-be0be35ef14c" />
+<img width="814" height="346" alt="image" src="https://github.com/user-attachments/assets/2cafde36-7c82-467d-a737-953338d881a4" />
+
 
 ---
 
