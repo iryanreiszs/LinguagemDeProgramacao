@@ -8,13 +8,13 @@ OBS: a implementação de código para os exercícios 7 e 8 estão nas pastas do
 
 ## 📌 Índice:
 
-1. [Exercício 1: Média no Excel](#exercício-1-média-no-excel)
-2. [Exercício 2: Classes sobre música 🎵](#exercício-2-classes-sobre-música)
-3. [Exercício 3: Classes sobre arte 🎨](#exercício-3-classes-sobre-arte)
-4. [Exercício 4: Classes sobre Doodle 🖍️](#exercício-4-classes-sobre-doodle)
-5. [Exercício 5: Classes sobre vídeo ⚽](#exercício-5-classes-sobre-vídeo)
-6. [Exercício 7: Cálculo da média em Java](#exercício-7-cálculo-da-média-em-java)
-7. [Exercício 8: Implementação em Java de todos os anteriores](#exercício-8-implementação-em-java-dos-exercícios)
+* [Exercício 1: Média no Excel](#exercício-1-média-no-excel)
+* [Exercício 2: Classes sobre música 🎵](#exercício-2-classes-sobre-música)
+* [Exercício 3: Classes sobre arte 🎨](#exercício-3-classes-sobre-arte)
+* [Exercício 4: Classes sobre Doodle 🖍️](#exercício-4-classes-sobre-doodle)
+* [Exercício 5: Classes sobre vídeo ⚽](#exercício-5-classes-sobre-vídeo)
+* [Exercício 7: Cálculo da média em Java](#exercício-7-cálculo-da-média-em-java)
+* [Exercício 8: Implementação em Java de todos os anteriores](#exercício-8-implementação-em-java-dos-exercícios)
 
 ---
 
