@@ -1,6 +1,7 @@
 # 🧠 Projeto de Exercícios em Java
 
 Repositório referente a disciplina de Linguagem de Programação I com os exercícios desenvolvidos durante as atividades propostas, usando imagens, músicas, obras de arte e vídeos como base para criação de classes em Java.
+OBS: a implementação de código para os exercícios 7 e 8 estão nas pastas dos respectivos exercícios!
 
 ---
 
