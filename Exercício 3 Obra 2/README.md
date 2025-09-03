@@ -1,6 +1,7 @@
 ## 🎨 Exercício 3: Classes sobre obras de Vik Muniz - Torre Eiffel
 
-<img width="1595" height="735" alt="image" src="https://github.com/user-attachments/assets/51e7b02c-b942-46c7-8595-c1cbff6e6cfc" />
+<img width="811" height="329" alt="image" src="https://github.com/user-attachments/assets/758c24be-cfe6-47ca-a3f8-bf29053d369b" />
+
 
 ---
 
