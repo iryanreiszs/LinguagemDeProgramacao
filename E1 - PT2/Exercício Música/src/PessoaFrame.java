@@ -62,14 +62,14 @@ public class PessoaFrame extends javax.swing.JFrame {
 
         // Evento do botão
         btnCriar.addActionListener(e -> {
-            String nome = txtNome.getText();
-            int idade = Integer.parseInt(txtIdade.getText());
-            String apelido = txtApelido.getText();
-
-            JOptionPane.showMessageDialog(this, "Pessoa criada: " + nome + " (" + apelido + "), " + idade + " anos.");
+//            String nome = txtNome.getText();
+//            int idade = Integer.parseInt(txtIdade.getText());
+//            String apelido = txtApelido.getText();
+                Pessoa pessoa = new Pessoa(txtNome.getText(), Integer.parseInt(txtIdade.getText()), txtApelido.getText());
+            JOptionPane.showMessageDialog(this, "Pessoa criada: " + pessoa.getNome() + " (" + pessoa.getApelido() + "), " + pessoa.getIdade() + " anos.");
 
             try (FileWriter writer = new FileWriter("pessoas.csv", true)) {
-                writer.write(nome + "," + idade + "," + apelido + "\n");
+                writer.write(pessoa.getNome() + "," + pessoa.getIdade() + "," + pessoa.getApelido() + "\n");
             } catch (IOException ex) {
                 JOptionPane.showMessageDialog(this, "Erro ao salvar no CSV!");
             }
