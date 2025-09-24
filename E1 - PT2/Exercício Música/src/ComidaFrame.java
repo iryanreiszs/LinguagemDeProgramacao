@@ -62,14 +62,15 @@ public class ComidaFrame extends javax.swing.JFrame {
 
         // Evento do botão
         btnCriar.addActionListener(e -> {
-            String nome = txtNome.getText();
-            String tipo = txtTipo.getText();
-            int preço = Integer.parseInt(txtPreço.getText());
+//            String nome = txtNome.getText();
+//            String tipo = txtTipo.getText();
+//            int preço = Integer.parseInt(txtPreço.getText());
+            Comida comida = new Comida(txtNome.getText(), txtTipo.getText(), Integer.parseInt(txtPreço.getText()));
 
-            JOptionPane.showMessageDialog(this, "Prato criado: " + nome + " (" + tipo + "), " + "de " + preço + " reais.");
+            JOptionPane.showMessageDialog(this, "Prato criado: " + comida.getNome() + " (" + comida.getTipo() + "), " + "de " + comida.getPreco() + " reais.");
 
             try (FileWriter writer = new FileWriter("comida.csv", true)) {
-                writer.write(nome + "," + tipo + "," + preço + "\n");
+                writer.write(comida.getNome() + "," + comida.getTipo() + "," + comida.getPreco() + "\n");
             } catch (IOException ex) {
                 JOptionPane.showMessageDialog(this, "Erro ao salvar no CSV!");
             }
