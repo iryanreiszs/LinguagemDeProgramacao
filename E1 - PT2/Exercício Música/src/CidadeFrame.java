@@ -27,7 +27,7 @@ public class CidadeFrame extends javax.swing.JFrame {
         c.insets = new Insets(5, 5, 5, 5); // espaço entre componentes
         c.fill = GridBagConstraints.HORIZONTAL;
 
-        // Nome
+        // Lugar
         c.gridx = 0;
         c.gridy = 0;
         painel.add(new JLabel("Lugar:"), c);
@@ -35,7 +35,7 @@ public class CidadeFrame extends javax.swing.JFrame {
         txtLugar = new JTextField(20);
         painel.add(txtLugar, c);
 
-        // Idade
+        // População
         c.gridx = 0;
         c.gridy = 1;
         painel.add(new JLabel("População:"), c);
@@ -43,7 +43,7 @@ public class CidadeFrame extends javax.swing.JFrame {
         txtPopulação = new JTextField(20);
         painel.add(txtPopulação, c);
 
-        // Apelido
+        // Pessoa
         c.gridx = 0;
         c.gridy = 2;
         painel.add(new JLabel("Pessoa:"), c);
@@ -62,14 +62,15 @@ public class CidadeFrame extends javax.swing.JFrame {
 
         // Evento do botão
         btnCriar.addActionListener(e -> {
-            String lugar = txtLugar.getText();
-            int população = Integer.parseInt(txtPopulação.getText());
-            String pessoa = txtPessoa.getText();
+//            String lugar = "txtLugar.getText();
+//            int população = Integer.parseInt(txtPopulação.getText());
+//            String pessoa = txtPessoa.getText();
+            Cidade cidade = new Cidade(txtLugar.getText(), Integer.parseInt(txtPopulação.getText()), txtPessoa.getText());
 
-            JOptionPane.showMessageDialog(this, "Lugar criado: " + pessoa + " está viajando para " + lugar + " com população de " + população + " habitantes.");
+            JOptionPane.showMessageDialog(this, "Lugar criado: " + cidade.getPessoa() + " está viajando para " + cidade.getLugar() + " com população de " + cidade.getPopulacao() + " habitantes.");
 
             try (FileWriter writer = new FileWriter("cidade.csv", true)) {
-                writer.write(lugar + "," + população + "," + pessoa + "\n");
+                writer.write(cidade.getLugar() + "," + cidade.getPopulacao() + "," + cidade.getPessoa() + "\n");
             } catch (IOException ex) {
                 JOptionPane.showMessageDialog(this, "Erro ao salvar no CSV!");
             }
