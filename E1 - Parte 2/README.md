@@ -5,6 +5,8 @@
 
 Este diretório contém os exercícios referentes à **Parte 2** da unidade E1 da disciplina de Linguagem de Programação I.
 
+https://youtu.be/0FLqzPZLjxo
+
 ## Estrutura
 
 Cada exercício está organizado em pacotes e classes conforme o tema trabalhado. Em geral, há:
