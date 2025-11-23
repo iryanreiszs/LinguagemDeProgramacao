@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<VBox alignment="CENTER" prefHeight="275.0" prefWidth="300.0" spacing="15" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.e2.MenuController">
+
+    <Label style="-fx-font-size: 20px;" text="Painel Principal" textAlignment="CENTER">
+      <font>
+         <Font size="36.0" />
+      </font></Label>
+
+    <Button onAction="#abrirPessoa" prefHeight="25.0" prefWidth="137.0" text="Pessoa" />
+    <Button onAction="#abrirCidade" prefHeight="25.0" prefWidth="135.0" text="Cidade" />
+    <Button onAction="#abrirProduto" prefHeight="25.0" prefWidth="138.0" text="Comida" />
+
+</VBox>

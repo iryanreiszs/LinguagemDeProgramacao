@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="CENTER" spacing="20.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.e2.CidadeController">
+
+    <padding>
+        <Insets bottom="20" left="20" right="20" top="20" />
+    </padding>
+
+    <children>
+
+        <HBox>
+            <children>
+                <Label prefHeight="17.0" prefWidth="72.0" text="Lugar" />
+                <TextField fx:id="lugarField" prefWidth="160" />
+            </children>
+        </HBox>
+
+        <HBox>
+            <children>
+                <Label prefHeight="17.0" prefWidth="72.0" text="População" />
+                <TextField fx:id="populacaoField" prefWidth="160" />
+            </children>
+        </HBox>
+
+        <HBox>
+            <children>
+                <Label prefHeight="17.0" prefWidth="73.0" text="Pessoa" />
+                <TextField fx:id="pessoaField" prefWidth="160" />
+            </children>
+        </HBox>
+
+        <HBox spacing="10">
+            <children>
+                <Button onAction="#cadastrar" text="Cadastrar" />
+                <Button onAction="#editarSelecionado" text="Editar" />
+                <Button onAction="#salvarEdicao" text="Salvar Edição" />
+                <Button onAction="#excluirSelecionado" text="Apagar" />
+            </children>
+        </HBox>
+
+        <TableView fx:id="tabela">
+            <columns>
+                <TableColumn fx:id="colId" text="ID" />
+                <TableColumn fx:id="colLugar" text="Lugar" />
+                <TableColumn fx:id="colPopulacao" text="População" />
+                <TableColumn fx:id="colPessoa" text="Pessoa" />
+            </columns>
+            <columnResizePolicy>
+                <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+            </columnResizePolicy>
+        </TableView>
+
+    </children>
+
+</VBox>

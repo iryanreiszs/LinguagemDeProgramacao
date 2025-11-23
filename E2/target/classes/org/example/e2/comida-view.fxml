@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="CENTER" spacing="20" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.e2.ComidaController">
+
+    <padding>
+        <Insets bottom="20" left="20" right="20" top="20" />
+    </padding>
+
+    <children>
+
+        <HBox>
+            <children>
+                <Label prefHeight="17.0" prefWidth="61.0" text="Nome" />
+                <TextField fx:id="nomeField" />
+            </children>
+        </HBox>
+
+        <HBox>
+            <children>
+                <Label prefHeight="17.0" prefWidth="60.0" text="Tipo" />
+                <TextField fx:id="tipoField" />
+            </children>
+        </HBox>
+
+        <HBox>
+            <children>
+                <Label prefHeight="17.0" prefWidth="59.0" text="Preço" />
+                <TextField fx:id="precoField" />
+            </children>
+        </HBox>
+
+        <HBox style="-fx-spacing: 10">
+            <children>
+                <Button onAction="#cadastrar" text="Cadastrar" />
+                <Button onAction="#editarSelecionado" text="Editar" />
+                <Button onAction="#salvarEdicao" text="Salvar Edição" />
+                <Button onAction="#excluirSelecionado" text="Apagar" />
+            </children>
+        </HBox>
+
+        <TableView fx:id="tabela">
+            <columns>
+                <TableColumn fx:id="colId" text="ID" />
+                <TableColumn fx:id="colNome" text="Nome" />
+                <TableColumn fx:id="colTipo" text="Tipo" />
+                <TableColumn fx:id="colPreco" text="Preço" />
+            </columns>
+        </TableView>
+
+    </children>
+</VBox>

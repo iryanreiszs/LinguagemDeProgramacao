@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="CENTER" prefHeight="620.0" prefWidth="362.0" spacing="20.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.e2.HelloController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <children>
+      <HBox prefHeight="100.0" prefWidth="200.0">
+         <children>
+            <Label prefHeight="17.0" prefWidth="46.0" text="Nome" />
+            <TextField fx:id="nomeField" prefHeight="25.0" prefWidth="164.0" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0">
+         <children>
+            <Label prefHeight="17.0" prefWidth="46.0" text="Idade" />
+            <TextField fx:id="idadeField" prefHeight="25.0" prefWidth="164.0" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0">
+         <children>
+            <Label prefHeight="17.0" prefWidth="46.0" text="Apelido" />
+            <TextField fx:id="apelidoField" prefHeight="25.0" prefWidth="165.0" />
+         </children>
+      </HBox>
+      <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" style="-fx-spacing: 10;">
+         <children>
+            <Button mnemonicParsing="false" onAction="#cadastrar" text="Cadastrar" />
+            <Button mnemonicParsing="false" onAction="#editarSelecionado" text="Editar" />
+            <Button mnemonicParsing="false" onAction="#salvarEdicao" text="Salvar Edição" />
+            <Button mnemonicParsing="false" onAction="#excluirSelecionado" text="Apagar" />
+         </children>
+      </HBox>
+      <TableView fx:id="tabela" prefHeight="400.0" prefWidth="322.0">
+        <columns>
+            <TableColumn fx:id="colId" prefWidth="75.0" text="ID" />
+          <TableColumn fx:id="colNome" prefWidth="75.0" text="Nome" />
+          <TableColumn fx:id="colIdade" prefWidth="163.0" text="Idade" />
+            <TableColumn fx:id="colApelido" prefWidth="109.0" text="Apelido" />
+        </columns>
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
+      </TableView>
+   </children>
+</VBox>
